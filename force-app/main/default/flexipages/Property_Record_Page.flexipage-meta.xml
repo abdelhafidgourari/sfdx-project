@@ -176,6 +176,8 @@
         <itemInstances>
             <componentInstance>
                 <componentName>RecordMap</componentName>
+            </componentInstance>
+            <componentInstance>
                 <componentName>PictureCarousel</componentName>
             </componentInstance>
         </itemInstances>
